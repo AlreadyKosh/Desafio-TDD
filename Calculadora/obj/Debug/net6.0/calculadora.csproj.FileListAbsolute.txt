@@ -1,0 +1,15 @@
+C:\Users\Monique\Workspace\CSharp\Modulo_Testes\Calculadora\bin\Debug\net6.0\calculadora.exe
+C:\Users\Monique\Workspace\CSharp\Modulo_Testes\Calculadora\bin\Debug\net6.0\calculadora.deps.json
+C:\Users\Monique\Workspace\CSharp\Modulo_Testes\Calculadora\bin\Debug\net6.0\calculadora.runtimeconfig.json
+C:\Users\Monique\Workspace\CSharp\Modulo_Testes\Calculadora\bin\Debug\net6.0\calculadora.dll
+C:\Users\Monique\Workspace\CSharp\Modulo_Testes\Calculadora\bin\Debug\net6.0\calculadora.pdb
+C:\Users\Monique\Workspace\CSharp\Modulo_Testes\Calculadora\obj\Debug\net6.0\calculadora.csproj.AssemblyReference.cache
+C:\Users\Monique\Workspace\CSharp\Modulo_Testes\Calculadora\obj\Debug\net6.0\calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monique\Workspace\CSharp\Modulo_Testes\Calculadora\obj\Debug\net6.0\calculadora.AssemblyInfoInputs.cache
+C:\Users\Monique\Workspace\CSharp\Modulo_Testes\Calculadora\obj\Debug\net6.0\calculadora.AssemblyInfo.cs
+C:\Users\Monique\Workspace\CSharp\Modulo_Testes\Calculadora\obj\Debug\net6.0\calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Monique\Workspace\CSharp\Modulo_Testes\Calculadora\obj\Debug\net6.0\calculadora.dll
+C:\Users\Monique\Workspace\CSharp\Modulo_Testes\Calculadora\obj\Debug\net6.0\refint\calculadora.dll
+C:\Users\Monique\Workspace\CSharp\Modulo_Testes\Calculadora\obj\Debug\net6.0\calculadora.pdb
+C:\Users\Monique\Workspace\CSharp\Modulo_Testes\Calculadora\obj\Debug\net6.0\calculadora.genruntimeconfig.cache
+C:\Users\Monique\Workspace\CSharp\Modulo_Testes\Calculadora\obj\Debug\net6.0\ref\calculadora.dll
